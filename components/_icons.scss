@@ -1,0 +1,16 @@
+.worldIcon {
+  max-width: 20px;
+  max-height: 1px;
+}
+
+#world {
+  width: $pixels;
+  height: $pixels;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.centerIcon {
+  margin-top: 20%;
+  text-align: center;
+}

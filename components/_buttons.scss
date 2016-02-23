@@ -1,0 +1,75 @@
+.buttons {
+  h3 {
+    border-radius: 2px;
+    width: 300px;
+    padding: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    display: inline;
+  }
+  text-align: center;
+}
+
+#stories {
+  a {
+    color: black;
+  }
+  background-color: #ffffff;
+  border: 1px solid #2C2C2C;
+  opacity: 0.6;
+}
+
+#facebook {
+  background-color: #425F9C;
+  color: white;
+}
+
+.links {
+  img {
+    max-width: 150px;
+    max-height: 60px;
+  }
+  text-align: center;
+}
+
+#apple {
+  margin-top: 8%;
+}
+
+.navbarOptions {
+  h4 {
+    float: left;
+    display: inline;
+    padding-left: 3%;
+    margin-top: 40px;
+    font-family: 'Raleway', sans-serif;
+  }
+  margin-left: 45%;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+#signIn {
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 2%;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 23px;
+}
+
+#signUp {
+  a {
+    color: black;
+  }
+  border: 1px solid #f9c806;
+  border-radius: 5px;
+  padding: 2%;
+  margin-top: 23px;
+  background-color: #f9c806;
+}
